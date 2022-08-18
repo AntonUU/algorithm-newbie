@@ -45,33 +45,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BitAD">
-    <configuration name="BitAD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="msb_newbie_20220818_5.BitAD" />
-      <module name="algorithm-newbie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="msb_newbie_20220818_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Bitmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="msb_newbie_20220818_5.Bitmap" />
-      <module name="algorithm-newbie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="msb_newbie_20220818_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.cn.anton.msb_newbie_20220818_5.BitAD">
     <configuration name="NotPobabillity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.anton.msb_newbie_20220807_2.NotPobabillity" />
       <module name="algorithm-newbie" />
@@ -85,10 +59,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cn.anton.msb_newbie_20220818_5.BitAD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.anton.msb_newbie_20220818_5.BitAD" />
+      <module name="algorithm-newbie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.anton.msb_newbie_20220818_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cn.anton.msb_newbie_20220818_5.Bitmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.anton.msb_newbie_20220818_5.Bitmap" />
+      <module name="algorithm-newbie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.anton.msb_newbie_20220818_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BitAD" />
-        <item itemvalue="Application.Bitmap" />
+        <item itemvalue="Application.cn.anton.msb_newbie_20220818_5.BitAD" />
+        <item itemvalue="Application.cn.anton.msb_newbie_20220818_5.Bitmap" />
         <item itemvalue="Application.NotPobabillity" />
       </list>
     </recent_temporary>
